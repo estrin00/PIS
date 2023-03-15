@@ -10,6 +10,7 @@ namespace ConsoleApp43_es
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hey!");
         }
     }
 }
