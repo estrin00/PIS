@@ -10,5 +10,7 @@ namespace ConsoleApp43_es
     {
         //test git
         int metoda();
+        
+        //bla
     }
 }
