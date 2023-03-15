@@ -8,6 +8,7 @@ namespace ConsoleApp43_es
 {
     class NewClass
     {
+        //test git
         int metoda();
     }
 }
