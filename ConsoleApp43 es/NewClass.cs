@@ -8,5 +8,6 @@ namespace ConsoleApp43_es
 {
     class NewClass
     {
+        int metoda();
     }
 }
